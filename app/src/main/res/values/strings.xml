@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Project Android Pemula Kotlin</string>
+    <string-array name="judulnovel">
+        <item>86 EIGHTY-SIX, Vol 1</item>
+        <item>86 EIGHTY-SIX, Vol 2</item>
+        <item>Log Horizon, Vol 1</item>
+        <item>Log Horizon, Vol 2</item>
+        <item>So I am a Spider, So What?, Vol 1</item>
+        <item>So I am a Spider, So What?, Vol 2</item>
+        <item>Berserk of Gluttony, Vol 1</item>
+        <item>Berserk of Gluttony, Vol 2</item>
+        <item>The Eminence in Shadow, Vol 1</item>
+        <item>The Eminence in Shadow, Vol 2</item>
+    </string-array>
+    <string-array name="ratingnovel">
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="harganovel">
+        <item>80.000</item>
+        <item>85.000</item>
+        <item>90.000</item>
+        <item>95.000</item>
+        <item>90.000</item>
+        <item>95.000</item>
+        <item>110.000</item>
+        <item>115.000</item>
+        <item>110.000</item>
+        <item>115.000</item>
+    </string-array>
+    <string-array name="descnovel">
+        <item>
+            A War Without CasualtiesThe Republic of San Magnolia has long been under attack from the neighboring Giadian Empires army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one sided struggle into a war without casualties or at least, that is what the government claims.In truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty five Republic territories lies the nonexistent Eighty Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the unmanned weapons into battle.</item>
+        <item>
+            Lets go back to where we belong\n
+            Having bid Lena farewell, Shin and the surviving members of the Spearhead squadron continue into the heart of Legion territory. There, they endure countless hardships until theyre rescued by the Federal Republic of Giad, a reformed nation that offers them a second chance at a peaceful life. But it is not long before a sense of duty calls the Eighty-Six back to the battlefield. Choosing to enlist in the military, they willingly walk back through the gates of hell, this time joined by a peculiar new ally-Frederica Rosenfort: a haughty young girl with a rare ability and wisdom far beyond her years.
+        </item>
+        <item>
+            Thirty thousand Japanese gamers awake one day to discover that the fantasy world of Elder Tales, an MMORPG that was formerly their collective hobby, has become their cold hard reality. Severed from their everyday lives, they confront a new horizon filled with ravenous monsters, flavorless food, and the inability to die! Amid the chaos, veteran gamer Shiroe gathers his friends, the guardian Naotsugu and the assassin Akatsuki, and together they embark on an adventure to change the world as they know it!
+        </item>
+        <item>Even though peace has seemingly been restored to Akiba, unrest churns beneath its surface. Learning that two of his students the twins Tohya and Minori have been bound to an unscrupulous guild, Shiroe makes his bid to bring order to the lawless streets. Are his band of handpicked veterans up to the task?
+        </item>
+        <item>
+            I used to be a normal high school girl but in the blink of an eye, I woke up in a place Ive never seen before and-and I was reborn as a spider?! How could something thats nothing more than a tiny spider (thats me) possibly survive in literally the worst dungeon ever? Are there no rules? There should be some rules! Who the hell is responsible for this? SHOW YOUR FACE!
+        </item>
+        <item>
+            After many trials and challenges, our reborn spider has become very good at fighting (and eating! monsters. Getting a little full of herself, shes rushed headlong into some unexplored area and now, shes facing her worst enemy a huge dragon!
+        </item>
+        <item>
+            Fate Graphite is one of the forsaken. Cursed with the skill “Gluttony,” he is ever starving, never sated…until the day he kills a dying thief and devours the man’s strength―and his soul. The true hunger of Fate’s Gluttony has awakened, and if he can learn to control his power, he will at last be the master of his own destiny.
+        </item>
+        <item>
+            Fate wants nothing more than to save Roxy from certain death in Galia, a death to which her fellow holy knights condemned her. As he follows Roxys trail, he encounters a Galian girl he once met: Myne, who wields a black axe that eerily resembles Fates own black sword.  Myne agrees to help Fate fight the monsters between him and Galia but once they get there, he must repay her favor in kind.
+        </item>
+        <item>
+            ONE BIG FAT LIE AND A FEW TWISTED TRUTHS Even in his past life, Cids dream wasnt to become a protagonist or a final boss. Hed rather lie low as a minor character until its prime time to reveal hes a mastermind or at least, do the next best thing-pretend to be one! And now that hes been reborn into another world, hes ready to set the perfect conditions to live out his dreams to the fullest.
+        </item>
+        <item>
+            NOTHING COULD BE FURTHER FROM THE TRUTH\n
+            Cid pays a visit to the Sacred Land, where he finds himself getting roped into the Goddesss Trial. Its a ritual event that summons warriors from the past to engage with only the most worthy from the present. When Cid squares off against the witch who brought devastation to the world, the door to the Sanctuary creaks open, granting the Shadow Garden valuable insight into the possessed and the Cult of Diablos. That is until Cid, blissfully ignorant of the conspiracies playing out behind the scenes, runs amok!
+        </item>
+    </string-array>
+    <string-array name="datafoto">
+        <item>img1</item>
+        <item>img2</item>
+        <item>img3</item>
+        <item>img4</item>
+        <item>img5</item>
+        <item>img6</item>
+        <item>img7</item>
+        <item>img8</item>
+        <item>img9</item>
+        <item>img10</item>
+    </string-array>
+</resources>
